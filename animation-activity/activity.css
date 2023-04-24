@@ -34,7 +34,7 @@ nav {
 
 @keyframes middle {
   from {opacity: 100%}
-  to {opacity: 0%}
+  to {opacity: 0%;}
 }
 
 @keyframes bottom {
